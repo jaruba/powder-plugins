@@ -1,0 +1,27 @@
+[
+	{
+		"repo": "my-cool-plugin",
+		"author": "jaruba",
+		"title": "My Cool Plugin",
+		"version": "0.0.1",
+		"appVersion": 0.95,
+		"description": "Does some really cool things!"
+	},
+	{
+		"repo": "some-other-cool-plugin",
+		"author": "jaruba",
+		"title": "Some Other Cool Plugin",
+		"version": "1.2.9",
+		"appVersion": 0.90,
+		"description": "This is so much cooler then my other plugin"
+	},
+	{
+		"repo": "another-cool-plugin",
+		"author": "jaruba",
+		"title": "Another Cool Plugin",
+		"version": "0.1.5",
+		"appVersion": 0.95,
+		"description": "This plugin will install the other 2 plugins too, because they are set as a dependency.",
+		"dependencies": ["my-cool-plugin", "some-other-cool-plugin"]
+	}
+]
