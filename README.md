@@ -11,17 +11,17 @@ Example of a correct `plugins.json` [can be seen here](https://github.com/jaruba
 Description of all required fields:
 
 ```
-	{
-		"repo": "my-cool-plugin", // repo name as it is shown on github
-		"author": "jaruba", // author name as it is shown on github
-		
-		// it should be noted, that for this example, the link:
-		// https://github.com/jaruba/my-cool-plugin
-		// must exist as it is where it will search for the plugin releases
-		
-		"title": "My Cool Plugin", // plugin title
-		"version": "0.0.1", // latest plugin version
-		"appVersion": 0.95, // minimum Powder Player version it works on
-		"description": "Does some really cool things!" // plugin description
-	},
+{
+    "repo": "my-cool-plugin", // repo name as it is shown on github
+    "author": "jaruba", // author name as it is shown on github
+
+    // it should be noted, that for this example, the link:
+    // https://github.com/jaruba/my-cool-plugin
+    // must exist as it is where it will search for the plugin releases
+
+    "title": "My Cool Plugin", // plugin title
+    "version": "0.0.1", // latest plugin version
+    "appVersion": 0.95, // minimum Powder Player version it works on
+    "description": "Does some really cool things!" // plugin description
+},
 ```
