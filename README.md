@@ -6,7 +6,7 @@ If you have made a new plugin, please submit a pull request adding the relevant 
 
 Upon acceptence of the PR, your plugin will instantly become available to all Powder Player users around the world.
 
-Example of a correct `plugins.json` [can be seen here](https://github.com/jaruba/powder-plugins/blob/master/demo-plugins.json).
+Example of a correct `plugins.json` [can be seen here](https://github.com/jaruba/powder-plugins/blob/gh-pages/demo-plugins.json).
 
 Description of all required fields:
 
