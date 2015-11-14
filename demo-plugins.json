@@ -3,7 +3,7 @@
         "repo": "my-cool-plugin",
         "author": "jaruba",
         "title": "My Cool Plugin",
-        "version": "0.0.1",
+        "version": "0.0.2",
         "appVersion": 0.95,
         "description": "Does some really cool things!"
     },
